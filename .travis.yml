@@ -5,5 +5,5 @@ android:
 
 script:
  - pwd
- - gradle assembleDebug
+ - gradle assembleDebug --stacktrace
  - find .
