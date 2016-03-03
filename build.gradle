@@ -9,8 +9,8 @@ buildscript {
 apply plugin: 'android'
 
 android {
-    compileSdkVersion '19'
-    buildToolsVersion '19.0.2'
+    compileSdkVersion 18
+    buildToolsVersion '18.0.0'
 
     buildTypes {
         release {
